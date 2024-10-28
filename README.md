@@ -1,5 +1,3 @@
-- Hi, I’m Yuke
-- I‘m a PhD student
 - I’m interested in the communication (MPI, NCCL, RDMA...) in HPC and AI.
 - My headshot is my cat, Neumann
 
